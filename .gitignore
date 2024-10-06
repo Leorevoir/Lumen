@@ -1,0 +1,8 @@
+.vscode/
+token_ideas
+syntax_ideas
+*.sh
+!build.sh
+lumen
+*.o
+Makefile

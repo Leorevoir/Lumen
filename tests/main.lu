@@ -1,0 +1,21 @@
+str = "hello, world!"
+str.show()
+index = str.search('o')
+index.show()
+bool = str.exists()
+bool.show()
+count = str.count()
+count.show()
+
+//function hello_world(name):
+//    x = "Hello, world!"
+//    x.show()
+//
+//    index = x.search('e')
+//    index.show()
+//
+//    word = x.split(', ')
+//    word.show()
+//end
+//
+//hello_world()
