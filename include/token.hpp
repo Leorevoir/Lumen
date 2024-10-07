@@ -76,3 +76,4 @@ inline const std::string debug_type(TokenType type)
 }
 
 #endif /* !TOKEN_HPP_ */
+

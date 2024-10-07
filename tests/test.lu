@@ -1,0 +1,6 @@
+x = "Hello, World!"
+
+x.show()
+len = x.count()
+len.show()
+

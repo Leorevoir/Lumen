@@ -19,4 +19,6 @@
     constexpr int ERROR = 84;
     constexpr int SUCCESS = 0;
 
+int parse_arguments(int argc, char **argv, bool *verbose);
+
 #endif /* !BASE_HPP_ */

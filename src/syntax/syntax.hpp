@@ -15,6 +15,7 @@
      */
     constexpr char INVALID_METHOD_CALL[] = "Invalid method call.";
     constexpr char UNKNOWN_TOKEN[] = "Unknown token.";
+    constexpr char INVALID_FILE[] = "Cannot open file: ";
 
     /*
      * constants expressions for syntax hint
@@ -22,6 +23,7 @@
     constexpr char HINT_PARENTHESIS[] = "Did you forget to add parenthesis?";
     constexpr char HINT_QUOTES[] = "Did you forget to add quotes?";
     constexpr char HINT_DELIMITER[] = "Did you forget to add a delimiter?";
+    constexpr char HINT_INVALID_FILE[] = "Did you forget to add .lu extension?";
 
 
 class Syntax {
